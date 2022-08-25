@@ -1,0 +1,36 @@
+.call-to-action {
+    background-color: #f1ebe5;
+    color: black;
+}
+
+.heading-line {
+    height: 3px;
+    width: 200px;
+    background-color: #83F3ED;
+}
+
+.programm i {
+    font-size: 2rem;
+    color: #83F3ED;
+}
+
+.dark {
+    background-color: #011627;
+    color: #83F3ED;
+    min-height: 300px;
+}
+
+.tech-img {
+    object-fit: cover;
+    min-height: 300px;
+}
+
+.footer {
+    background-color: white;
+    color: black;
+}
+
+.contacts {
+    background-color: #f1ebe5;
+    color: black;
+}

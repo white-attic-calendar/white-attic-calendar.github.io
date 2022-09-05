@@ -34,3 +34,28 @@
     background-color: #f1ebe5;
     color: black;
 }
+
+.back-img {
+    height: 58px;
+    background-image: url(sources/шапка\ фото\ салона\ 1.jpg)
+}
+
+.btn-custom {
+    background-color: #f1ebe5;
+}
+
+.btn-custom:hover {
+    background-color: #7e7a78;
+    color: #f1ebe5;
+}
+
+.card img {
+    height: 350px;
+    object-fit: cover;
+}
+
+.badge {
+    background-color: #f1ebe5;
+    opacity: 0.8;
+    color: black;
+}
